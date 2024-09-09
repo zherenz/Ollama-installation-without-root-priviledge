@@ -20,7 +20,7 @@ test.py<br>
 ### Change model dirs (if needed)
 https://www.reddit.com/r/ollama/comments/1c4zg15/does_anyone_know_how_to_change_where_your_models/<br>
 <br>
-export OLLAMA_MODELS=/export/data/yanglab/ollama_models<br>
+export OLLAMA_MODELS=/new_model_dir<br>
 
 ### Offline model installation (if an error occurs using ollama pull)
 https://github.com/ollama/ollama/issues/696 <br>
