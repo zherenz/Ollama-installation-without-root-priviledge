@@ -1,4 +1,4 @@
-# Ollama-installation-without-root-priviledge
+# Ollama-installation-without-root-privilege
 
 ### Step1. Download pre-built binaries 
 https://github.com/ollama/ollama/issues/2111 <br>
